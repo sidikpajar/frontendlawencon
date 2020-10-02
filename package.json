@@ -1,5 +1,6 @@
 {
-  "name": "frontend",
+  "name": "frontendlawencon",
+  "homepage": "http://sidikpajar.github.io/frontendlawencon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,6 +25,8 @@
     "sweetalert2": "^10.3.5"
   },
   "scripts": {
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d build",
     "start": "env-cmd -f .env.development react-scripts start",
     "build": "env-cmd -f .env.production react-scripts build",
     "test": "react-scripts test",
