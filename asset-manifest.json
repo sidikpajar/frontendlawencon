@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontendlawencon/static/css/main.24284bd4.chunk.css",
+    "main.js": "/frontendlawencon/static/js/main.12842c6f.chunk.js",
+    "main.js.map": "/frontendlawencon/static/js/main.12842c6f.chunk.js.map",
+    "runtime-main.js": "/frontendlawencon/static/js/runtime-main.985df9c9.js",
+    "runtime-main.js.map": "/frontendlawencon/static/js/runtime-main.985df9c9.js.map",
+    "static/js/2.aec10888.chunk.js": "/frontendlawencon/static/js/2.aec10888.chunk.js",
+    "static/js/2.aec10888.chunk.js.map": "/frontendlawencon/static/js/2.aec10888.chunk.js.map",
+    "index.html": "/frontendlawencon/index.html",
+    "precache-manifest.2a7466f58f0559fd0f4f55aa5e944cc6.js": "/frontendlawencon/precache-manifest.2a7466f58f0559fd0f4f55aa5e944cc6.js",
+    "service-worker.js": "/frontendlawencon/service-worker.js",
+    "static/css/main.24284bd4.chunk.css.map": "/frontendlawencon/static/css/main.24284bd4.chunk.css.map",
+    "static/js/2.aec10888.chunk.js.LICENSE.txt": "/frontendlawencon/static/js/2.aec10888.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/frontendlawencon/static/media/AvenirLTStd-Roman.b1d7c6e0.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.985df9c9.js",
+    "static/js/2.aec10888.chunk.js",
+    "static/css/main.24284bd4.chunk.css",
+    "static/js/main.12842c6f.chunk.js"
+  ]
+}
